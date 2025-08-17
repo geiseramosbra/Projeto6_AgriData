@@ -63,5 +63,3 @@ py -m jupyter notebook ".\notebooks\Projeto6_AgriData_Impact_Analysis.ipynb"
 - `data/exports/kpi_emissions_intensity_5y_by_country.csv`
 - `data/exports/kpi_employment_shift_since_2010.csv`
 
-## Licença
-Uso educacional. Dataset sintético criado para prática.
